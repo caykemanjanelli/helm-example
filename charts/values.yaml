@@ -1,0 +1,19 @@
+name: default-values
+
+image:
+  repository: nginx
+  tag: lastest
+
+port: 8080
+
+resourcelimits:
+  memory: 128Mi
+  cpu: 500m
+# Gera ou não o arquivo AutoScaling
+hpa: false
+
+environments:
+  - name: USER_NAME
+    value: name
+  - name: USER_PASS
+    value: pass
