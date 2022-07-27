@@ -36,5 +36,5 @@ git commit -m "create orphan branch" --allow-empty
 Crie uma branch orfan sem nenhum arquivo, essa branch será usada para armazenar os artefatos buildados do Helm
 
 ```sh
-git checkout --orphan=gh-pages
+git checkout --orphan=artifacts
 ```
