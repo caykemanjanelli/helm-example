@@ -2,19 +2,19 @@ apiVersion: v1
 entries:
   tooling:
   - apiVersion: v2
-    created: "2022-07-27T19:58:02.81121531Z"
+    created: "2022-07-27T19:58:18.636525893Z"
     description: tooling helm chart
     digest: 8b6658b819b85eaf93e52e5651b214abcaad1c08fb07b3fc10268989ac594dd9
     name: tooling
     urls:
-    - https://github.com/caykemanjanelli/helm-example/releases/download/tooling-0.1.1/tooling-0.1.1.tgz
+    - https://raw.githubusercontent.com/caykemanjanelli/helm-example/artifacts/tooling-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v2
-    created: "2022-07-27T19:50:35.224330838Z"
+    created: "2022-07-27T19:58:18.636160989Z"
     description: tooling helm chart
     digest: 8bcddb3df2fbe5a4c9178939f475d5b1ffc2cff62ea90633137af41e3d6f4587
     name: tooling
     urls:
     - https://raw.githubusercontent.com/caykemanjanelli/helm-example/artifacts/tooling-0.1.0.tgz
     version: 0.1.0
-generated: "2022-07-27T19:58:02.811238811Z"
+generated: "2022-07-27T19:58:18.634675372Z"
