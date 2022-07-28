@@ -3,17 +3,17 @@ entries:
   eks-application:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-07-28T12:12:18.292729668Z"
+    created: "2022-07-28T12:12:34.173553554Z"
     description: A Helm chart for Kubernetes
     digest: 88d768fa98877ca71587bbf7101bc99f86b1d9bfaec0a6d0d1a008eb2e840b52
     name: eks-application
     type: application
     urls:
-    - https://github.com/caykemanjanelli/helm-example/releases/download/eks-application-0.1.0/eks-application-0.1.0.tgz
+    - https://raw.githubusercontent.com/caykemanjanelli/helm-example/artifacts/eks-application-0.1.0.tgz
     version: 0.1.0
   tooling:
   - apiVersion: v2
-    created: "2022-07-27T19:58:18.636525893Z"
+    created: "2022-07-28T12:12:34.174231463Z"
     description: tooling helm chart
     digest: 8b6658b819b85eaf93e52e5651b214abcaad1c08fb07b3fc10268989ac594dd9
     name: tooling
@@ -21,11 +21,11 @@ entries:
     - https://raw.githubusercontent.com/caykemanjanelli/helm-example/artifacts/tooling-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v2
-    created: "2022-07-27T19:58:18.636160989Z"
+    created: "2022-07-28T12:12:34.173889059Z"
     description: tooling helm chart
     digest: 8bcddb3df2fbe5a4c9178939f475d5b1ffc2cff62ea90633137af41e3d6f4587
     name: tooling
     urls:
     - https://raw.githubusercontent.com/caykemanjanelli/helm-example/artifacts/tooling-0.1.0.tgz
     version: 0.1.0
-generated: "2022-07-28T12:12:18.292746668Z"
+generated: "2022-07-28T12:12:34.172553541Z"
